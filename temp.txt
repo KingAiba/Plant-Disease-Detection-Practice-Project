@@ -1,0 +1,2 @@
+model_plant_disease_resnet8a -> 0.96 to 0.98
+model_plant_disease_resnet_b -> 0.99 to 0.97
